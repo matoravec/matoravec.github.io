@@ -3,6 +3,36 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://matoravec.github.io/tags/beh/</loc>
+    <lastmod>2022-01-24T12:53:28+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://matoravec.github.io/posts/</loc>
+    <lastmod>2022-01-24T12:53:28+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://matoravec.github.io/tags/preteky/</loc>
+    <lastmod>2022-01-24T12:53:28+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://matoravec.github.io/tags/</loc>
+    <lastmod>2022-01-24T12:53:28+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://matoravec.github.io/tags/trail/</loc>
+    <lastmod>2022-01-24T12:53:28+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://matoravec.github.io/posts/vokoberg_2022/</loc>
+    <lastmod>2022-01-24T12:53:28+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://matoravec.github.io/</loc>
     <lastmod>2022-01-16T18:14:28+01:00</lastmod>
   </url>
@@ -13,37 +43,12 @@
   </url>
   
   <url>
-    <loc>https://matoravec.github.io/tags/beh/</loc>
-    <lastmod>2021-01-25T18:14:28+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://matoravec.github.io/posts/</loc>
-    <lastmod>2021-01-25T18:14:28+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://matoravec.github.io/tags/preteky/</loc>
-    <lastmod>2021-01-25T18:14:28+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://matoravec.github.io/tags/</loc>
-    <lastmod>2021-01-25T18:14:28+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://matoravec.github.io/tags/trail/</loc>
-    <lastmod>2021-01-25T18:14:28+01:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://matoravec.github.io/posts/vokoberg_2021/</loc>
     <lastmod>2021-01-25T18:14:28+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://matoravec.github.io/posts/ponitirianska_stovka_2020/</loc>
+    <loc>https://matoravec.github.io/posts/ponitrianska_stovka_2020/</loc>
     <lastmod>2020-09-13T18:14:28+01:00</lastmod>
   </url>
   
